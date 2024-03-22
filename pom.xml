@@ -105,14 +105,14 @@
 		
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.97.169:8081/repository/project-release/</url>
+	      <name>satish_java_web_application</name>
+	      <url>http://52.91.60.162:8081/repository/satish_java_web_application/</url>
 	    </repository>
 	
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository</name>
-	      <url>http://13.233.97.169:8081/repository/project-snapshot/</url>
+	      <name>satish_java_web_application</name>
+	      <url>http://52.91.60.162:8081/repository/satish_java_web_snapshot/</url>
 	    </snapshotRepository>
        </distributionManagement> 
 	

@@ -105,14 +105,14 @@
 		
 	    <repository>
 	      <id>nexus</id>
-	      <name>Java_web_application_Release</name>
-	      <url>http://43.204.211.110:8081/repository/Java_web_application_Release/</url>
+	      <name>satish_java_web_application_Release</name>
+	      <url>http://13.127.216.228:8081/repository/satish_java_web_application_Release/</url>
 	    </repository>
 	
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>java_web_application_snapshot</name>
-	      <url>http://43.204.211.110:8081/repository/Java_web_application_Release/</url>
+	      <name>satish_java_web_application_snapshot</name>
+	      <url>http://13.127.216.228:8081/repository/satish_java_web_application_snapshot/</url>
 	    </snapshotRepository>
        </distributionManagement> 
 	
